@@ -1,0 +1,22 @@
+{
+  "short_name": "TOEIC Mastery",
+  "name": "TOEIC Vocab Mastery - 600 Essential Words",
+  "description": "Ứng dụng tự học 600 từ vựng TOEIC chuẩn Barron's, Flashcard phản xạ và cá nhân hóa tiến độ.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090d16",
+  "theme_color": "#6366f1",
+  "display": "standalone",
+  "orientation": "portrait"
+}
